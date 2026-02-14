@@ -2,6 +2,7 @@
 – A personal identity system with logomark and infographic.
 
 **Wihan Triegaardt**
+
 Student Number: 55830013  
 Group: 2  
 Role for Assignment 2: Web Developer
