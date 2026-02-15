@@ -8,8 +8,7 @@ Group: 2
 Role for Assignment 2: Web Developer
 
 BSc IT student pursuing cybersecurity and aspiring SOC Analyst.
-
-This contains my personal identity system for the assignment:  
+ 
 - A logomark symbolizing precision, struggle, and growth toward excellence.  
 - Infographic explaining the design under strict constraints.  
 - "Do it properly or not at all."
