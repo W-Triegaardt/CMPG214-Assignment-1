@@ -1,8 +1,7 @@
 # CMPG214-Assignment-1
 – A personal identity system with logomark and infographic.
 
-**Wihan Triegaardt** <img width="500" height="500" alt="MyLogo" src="https://github.com/user-attachments/assets/79bf387f-054c-4faf-bb4f-a86bf1cda20a" />
-
+**Wihan Triegaardt**
 
 Student Number: 55830013  
 Role for Assignment 2: Business Analyst (Distance)
