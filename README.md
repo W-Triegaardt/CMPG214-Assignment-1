@@ -16,7 +16,7 @@ My Core values: Sharp, analytical, concise. Embrace the journey's highs and lows
 
 <img width="1700" height="950" alt="InfographicFinal" src="https://github.com/user-attachments/assets/31547a72-3418-41a8-b975-95e69fd0b0ae" />
 
-**Reflection: **
+**Reflection:**
 
 The hardest part of this assignment for me was visually creating my 
 identity. To be able to display myself without writing paragraphs but 
@@ -25,3 +25,7 @@ choose what represents me best and the things I taken out, even if
 they matter to me. I removed extra details and kept only that which 
 truly defines me. My design reflects my mindset of struggle, precision 
 and moving forward.
+
+**My Logo**
+
+<img width="100" height="100" alt="MyLogo" src="https://github.com/user-attachments/assets/1d4f7b0c-1b3b-4026-983e-38e218eabedb" />
