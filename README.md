@@ -4,7 +4,6 @@
 **Wihan Triegaardt**
 
 Student Number: 55830013  
-Group: 2  
 Role for Assignment 2: Web Developer
 
 BSc IT student pursuing cybersecurity and aspiring SOC Analyst.
@@ -14,3 +13,5 @@ BSc IT student pursuing cybersecurity and aspiring SOC Analyst.
 - "Do it properly or not at all."
 
 My Core values: Sharp, analytical, concise. Embrace the journey's highs and lows to reach accomplishment.
+
+<img width="1700" height="950" alt="WihanInforgraphicFinal" src="https://github.com/user-attachments/assets/f82fc261-2ba2-421b-bd5a-d43e58bf589e" />
